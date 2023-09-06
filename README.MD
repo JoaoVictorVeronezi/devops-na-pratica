@@ -1,6 +1,6 @@
-##Exercicio pratico
+## Exercicio pratico
 
-##1
+## 1
 
 - Primeiro rodei o comando `docker run ubuntu` para baixar a imagem do ubuntu.
 - Após isso rodei o comando ```docker run -it --rm ubuntu /bin/bash````
